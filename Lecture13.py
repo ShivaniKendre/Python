@@ -63,4 +63,6 @@ from array import *
 arr = array("i",[10,20,30,40,20])
 del arr[1]
 print("arr = ",arr)
-
+s = [10,20,30,40,50]
+del s[2]
+print("s = ",s)
